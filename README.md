@@ -2,7 +2,7 @@
 Brexit FX Impact Analysis (GBP/USD &amp; GBP/EUR)
 
 ## Overview
-This project analyzes the impact of Brexit on British Pound Sterling (GBP) rates relative to United States Dollars (USD) and Euros (EUR). I focused on analyzing the structural changes in exchange (FX) rates and volatilty before and after the 2016 referendum.
+This project analyzes the impact of Brexit on British Pound Sterling (GBP) rates relative to United States Dollars (USD) and Euros (EUR). I focused on analyzing the structural changes in exchange (FX) rates and volatility before and after the 2016 referendum.
 
 ## Objectives
 1. Evaluate how GBP FX rates fluctuated before, during, and after Brexit
@@ -24,3 +24,6 @@ Power Query (data cleaning & transformation)
 • Period-based comparison (Pre-Brexit, Brexit Year, Post-Referendum, Post-Brexit)  
 • Volatility analysis using standard deviation  
 • Currency comparison across multiple metrics  
+
+
+Data Sources: Office for National Statistics (www.ons.gov.uk)
